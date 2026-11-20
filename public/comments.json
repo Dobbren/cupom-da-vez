@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "timestamp": 4,
+    "name": "Paulo Baptista",
+    "avatar": "images/avatars/paulo-baptista.jpg",
+    "text": "Boa tarde a todos! Já validei os meus 6 cupões hoje, estou a assistir com atenção para fazer o levantamento certinho.",
+    "likes": 24,
+    "scheduledReplies": [
+      {
+        "delaySec": 10,
+        "name": "Helena Domingos",
+        "avatar": "images/avatars/helena-domingos.jpg",
+        "text": "@Paulo Baptista também já completei os 6 aqui em Luanda! Muito fácil de fazer.",
+        "likes": 12
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "timestamp": 26,
+    "name": "Cláudia Neto",
+    "avatar": "images/avatars/claudia-neto.jpg",
+    "text": "Pessoal, depois de fazer a confirmação do cadastro no final, quanto tempo demora para o valor cair na conta?",
+    "likes": 19,
+    "scheduledReplies": [
+      {
+        "delaySec": 7,
+        "name": "Assistente Cupom da Vez",
+        "avatar": "",
+        "isModerator": true,
+        "text": "Olá @Cláudia Neto! Assim que concluir a confirmação no final do vídeo, a transferência via Multicaixa Express ou IBAN é processada de forma automática em menos de 2 minutos. ✅",
+        "likes": 31
+      },
+      {
+        "delaySec": 16,
+        "name": "Mateus Quiala",
+        "avatar": "images/avatars/mateus-quiala.jpg",
+        "text": "@Cláudia Neto comigo foi muito rápido, nem deu tempo de fechar a página e já vibrou a notificação no telemóvel!",
+        "likes": 18
+      },
+      {
+        "delaySec": 24,
+        "name": "Cláudia Neto",
+        "avatar": "images/avatars/claudia-neto.jpg",
+        "text": "Que óptimo, obrigada pelo esclarecimento! Vou continuar a assistir com atenção 🙏",
+        "likes": 9
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "timestamp": 65,
+    "name": "Teresa Muhongo",
+    "avatar": "images/avatars/teresa-muhongo.jpg",
+    "text": "Onde é que aparece o botão para liberar o saque? Ainda estou a ver a explicação.",
+    "likes": 22,
+    "scheduledReplies": [
+      {
+        "delaySec": 8,
+        "name": "Assistente Cupom da Vez",
+        "avatar": "",
+        "isModerator": true,
+        "text": "Olá @Teresa Muhongo! Continue a assistir ao vídeo sem sair da página. O sistema libera automaticamente o botão de levantamento assim que a explicação terminar! 👇",
+        "likes": 27
+      },
+      {
+        "delaySec": 17,
+        "name": "Neusa Francisco",
+        "avatar": "images/avatars/neusa-francisco.jpg",
+        "text": "@Teresa Muhongo é isso mesmo, é só não fechar a página que no final abre a etapa de levantamento direto.",
+        "likes": 14
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "timestamp": 110,
+    "name": "Gaspar Ndongala",
+    "avatar": "images/avatars/gaspar-ndongala.jpg",
+    "text": "Essa verificação anti-fraude é mesmo devolvida junto com o saldo acumulado?",
+    "likes": 28,
+    "scheduledReplies": [
+      {
+        "delaySec": 8,
+        "name": "Assistente Cupom da Vez",
+        "avatar": "",
+        "isModerator": true,
+        "text": "Sim, @Gaspar Ndongala! A confirmação serve apenas para validar a titularidade da conta contra robôs e o valor retorna integralmente junto com o seu saque em Kwanzas. 🛡️",
+        "likes": 35
+      },
+      {
+        "delaySec": 18,
+        "name": "Pedro Cassule",
+        "avatar": "images/avatars/pedro-cassule.jpg",
+        "text": "@Gaspar Ndongala sim irmão, o que é teu volta garantido junto com o saque. Fiz e correu tudo 100%.",
+        "likes": 21
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "timestamp": 160,
+    "name": "Catarina Zola",
+    "avatar": "images/avatars/catarina-zola.jpg",
+    "text": "Alguém sabe dizer se funciona com conta do Banco Sol ou Millennium Atlântico?",
+    "likes": 16,
+    "scheduledReplies": [
+      {
+        "delaySec": 8,
+        "name": "Assistente Cupom da Vez",
+        "avatar": "",
+        "isModerator": true,
+        "text": "Olá @Catarina Zola! Sim, o sistema tem integração direta com todos os bancos de Angola (BAI, BFA, BIC, Banco Sol, Millennium Atlântico, BPC) além do Multicaixa Express imediato. 🏦",
+        "likes": 29
+      },
+      {
+        "delaySec": 17,
+        "name": "Edson Cacuaco",
+        "avatar": "images/avatars/edson-cacuaco.jpg",
+        "text": "@Catarina Zola eu recebi pelo Millennium Atlântico sem problema nenhum!",
+        "likes": 15
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "timestamp": 210,
+    "name": "Hélder Mavungo",
+    "avatar": "images/avatars/helder-mavungo.jpg",
+    "text": "Posso usar o número do Multicaixa Express mesmo se tiver registado noutro banco?",
+    "likes": 18,
+    "scheduledReplies": [
+      {
+        "delaySec": 8,
+        "name": "Assistente Cupom da Vez",
+        "avatar": "",
+        "isModerator": true,
+        "text": "Com certeza, @Hélder Mavungo! O envio via Multicaixa Express funciona para qualquer número associado à rede EMIS em Angola, com crédito instantâneo. 💳",
+        "likes": 24
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "timestamp": 260,
+    "name": "Rosaura Cambinda",
+    "avatar": "images/avatars/rosaura-cambinda.jpg",
+    "text": "Deixem o gosto na transmissão pessoal! Vale muito a pena acompanhar até ao final ❤️",
+    "likes": 42
+  },
+  {
+    "id": 8,
+    "timestamp": 310,
+    "name": "Nelson Sapalo",
+    "avatar": "images/avatars/nelson-sapalo.jpg",
+    "text": "Aqui no Lubango já terminámos os passos e foi tudo muito simples e transparente. Parabéns pela iniciativa!",
+    "likes": 33
+  },
+  {
+    "id": 9,
+    "timestamp": 360,
+    "name": "Laurinda Pinto",
+    "avatar": "images/avatars/laurinda-pinto.jpg",
+    "text": "Estou quase a terminar o vídeo para concluir o levantamento. Muito bem explicado!",
+    "likes": 26
+  },
+  {
+    "id": 10,
+    "timestamp": 410,
+    "name": "Valdemar Chivukuvuku",
+    "avatar": "images/avatars/valdemar-chivukuvuku.jpg",
+    "text": "Quem ainda está a assistir não feche a página antes do fim! Vale a pena assistir cada minuto para fazer tudo certinho.",
+    "likes": 38
+  }
+]
