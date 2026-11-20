@@ -81,10 +81,10 @@ const PAGE_NAME = "Cupom da Vez Angola";
 const MODERATOR_NAME = `Assistente ${PRODUCT_NAME}`;
 const WHATSAPP_NUMBER = "244923000000";
 
-const VTURB_PLAYER_ID = "vid-6b0062a715c57157fdeb897e";
-const VTURB_SCRIPT_ID = "vturb-player-6b0062a715c57157fdeb897e";
+const VTURB_PLAYER_ID = "vid-6b00658715c57157fdeb8ba9";
+const VTURB_SCRIPT_ID = "vturb-player-6b00658715c57157fdeb8ba9";
 const VTURB_SCRIPT_SRC =
-  "https://scripts.converteai.net/d6d8ec17-e5ab-4f9a-ae0f-16ffab7e7091/players/6b0062a715c57157fdeb897e/v4/player.js";
+  "https://scripts.converteai.net/d6d8ec17-e5ab-4f9a-ae0f-16ffab7e7091/players/6b00658715c57157fdeb8ba9/v4/player.js";
 
 /* ─── Inline Fallback for Threaded Synchronized Comments (Paced realistically) ─── */
 const FALLBACK_COMMENTS: SyncedComment[] = [
